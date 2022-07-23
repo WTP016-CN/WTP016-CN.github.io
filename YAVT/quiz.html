@@ -1,0 +1,59 @@
+<head>
+
+    <title>YAVT</title>
+    <link rel="icon" type="x-icon" href="icon.png">
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="x-icon" href="icon.png">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+    <script type="application/javascript" src="questions.js">
+    </script>
+</head>
+
+<body>
+
+
+
+    <div class="text-center">
+        <h1 class="display-4">Yet Another Values Test</h1>
+    </div>
+    <hr class="my-auto">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-12 mt-5">
+                <div class="jumbotron text-center">
+                    <p class="lead" id="question-text"></p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-12 mt-5">
+                <div class="card">
+                    <div class="card-tittle mt-2">
+                        <h2 style="text-align:center;" id="question-number">载入中……</h2>
+                    </div>
+                    <div class="card-body text-center">
+                        <button type="button" onclick="next_question(1.0)" class="btn btn-success btn-lg btn-block"
+                            style="background-color: #1b5e20;">强烈同意</button>
+                        <button type="button" onclick="next_question(0.5)"
+                            class="btn btn-success btn-lg btn-block mt-2">同意</button>
+                        <button type="button" onclick="next_question(0.0)"
+                            class="btn btn-light btn-lg btn-block mt-2">中立/不确定</button>
+                        <button type="button" onclick="next_question(-0.5)"
+                            class="btn btn-danger btn-lg btn-block mt-2">反对</button>
+                        <button type="button" onclick="next_question(-1.0)" class="btn btn-danger btn-lg btn-block mt-2"
+                            style="background-color: #b71c1c;">强烈反对</button>
+                        <button type="button" onclick="prev_question()" id="back_button"
+                            class="btn btn-primary btn-lg mt-4">返回</button>
+                        <button type="button" class="btn btn-primary btn-lg mt-4" id="back_button_off"
+                            disabled>返回</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- JavaScript for the test itself -->
+    <script type="application/javascript" src="quizF.mjs">
+    </script>
+</body>
+
