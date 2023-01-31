@@ -7,6 +7,7 @@ fuse-list.json
 
 temp/
 
+# Local Files
 .DS_Store
 *.local
 dist
@@ -14,5 +15,6 @@ dist-ssr
 node_modules
 .idea/
 *.log
+.vscode
 
 components.d.ts
