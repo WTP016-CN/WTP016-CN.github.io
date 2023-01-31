@@ -17,7 +17,7 @@ export default defineValaxyConfig<UserThemeConfig>({
   themeConfig: {
     banner: {
       enable: true,
-      title: 'WTP016\' Blog',
+      title: 'WTP016\'s Blog',
       cloud: {
         enable: true,
       },
