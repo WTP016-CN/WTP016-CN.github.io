@@ -15,6 +15,6 @@ dist-ssr
 node_modules
 .idea/
 *.log
-.vscode
+.vscode/
 
 components.d.ts
