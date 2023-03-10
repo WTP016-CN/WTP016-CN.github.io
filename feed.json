@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "WTP016's Blog",
+    "home_page_url": "https://blog.wtp016.top/",
+    "feed_url": "https://blog.wtp016.top/feed.json",
+    "description": "WTP016's Blog",
+    "icon": "https://oss.wtp016.top/aboutme/avatar.jpg",
+    "author": {
+        "name": "WTP016-CN",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h1>交通联合卡的详细介绍</h1>\n<h2>全国交通一卡通项目介绍</h2>\n<p>全国交通一卡通互联互通项目（又称：交通联合、全国交通一卡通），是由交通运输部组织，北京中交金卡科技有限公司负责互通平台搭建的交通卡互联互通工程</p>\n",
+            "url": "https://blog.wtp016.top/posts/China-T-union",
+            "title": "交通联合卡的详细介绍",
+            "date_modified": "2023-01-30T17:16:00.000Z",
+            "date_published": "2023-01-30T17:16:00.000Z",
+            "author": {
+                "name": "WTP016-CN",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.wtp016.top/</id>
+    <title>WTP016's Blog</title>
+    <updated>2023-03-10T16:30:00.164Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>WTP016-CN</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://blog.wtp016.top/"/>
+    <link rel="self" href="https://blog.wtp016.top/feed.atom"/>
+    <subtitle>WTP016's Blog</subtitle>
+    <logo>https://oss.wtp016.top/aboutme/avatar.jpg</logo>
+    <icon>https://blog.wtp016.top/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2023 © WTP016-CN</rights>
+    <entry>
+        <title type="html"><![CDATA[交通联合卡的详细介绍]]></title>
+        <id>https://blog.wtp016.top/posts/China-T-union</id>
+        <link href="https://blog.wtp016.top/posts/China-T-union"/>
+        <updated>2023-01-30T17:16:00.000Z</updated>
+        <content type="html"><![CDATA[<h1>交通联合卡的详细介绍</h1>
+<h2>全国交通一卡通项目介绍</h2>
+<p>全国交通一卡通互联互通项目（又称：交通联合、全国交通一卡通），是由交通运输部组织，北京中交金卡科技有限公司负责互通平台搭建的交通卡互联互通工程</p>
+]]></content>
+        <author>
+            <name>WTP016-CN</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-01-30T17:16:00.000Z</published>
+    </entry>
+</feed>
